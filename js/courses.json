@@ -1,0 +1,46 @@
+var courses = {
+    "ug":[ 
+        { 
+            "courseName": "CE 382: Transportation Engineering", 
+            "content": "Introduction, Vehicle and Driver Characteristics, Highway Geometric Design, Traffic Flow, Design of Traffic facilities, Pavement Analysis, Pavement Design, Highway Construction, Highway Maintenance."
+        }
+    ],
+    "pg":[ 
+        { 
+            "courseName": "CE 680: Traffic Flow Modelling and Simulation", 
+            "content": "Traffic flow characteristics; deterministic and stochastic models of stream flows; Car following models, stability and diffusion phenomena in traffic; Boltzmann models. Signalized and unsignalized intersections, Coordination and optimization of network of signalized intersections; pedestrian flow problems. Fundamentals of traffic simulation modeling. Simulation methodologies and model design. Simulation languages, Study of large scale simulation models such as VTI, Transyt, Sigop, etc."
+        },
+        { 
+            "courseName": "CE 681: Analysis and Design of Pavement Systems", 
+            "content": "Subsystems of Pavement Design; Basis of Pavement Design; Development of various design methods for highway and airport pavements; Pavement support conditions; Properties of components and design tests; Materials of Construction and Construction procedures for different types; Soil Stabilization methods; Quality control and tolerance; Mathematical models for pavement systems; Landing gears; vehicle pavement interaction; Computer Programming for various pavement analysis and design methods; pavement management process, pavement evaluation and performance; Design alternatives-Analysis, Evaluation and Selection."
+        },
+        { 
+            "courseName": "CE 682: Analysis and Design of Transportation Infrastructure", 
+            "content": "Introduction to supply and demand sides of transportation engineering, analysis of transportation demand (including topics such as category analysis, gravity model, entropy models, choice models, user equilibrium models, etc.). Introduction to public transportation. Designing efficient public transport systems (including topics such as route development, schedule development, pricing strategies, etc.). Concept of structural, functional and drainage design of pavement structure. Design of flexible and rigid pavement – various approaches. Cost and reliability considerations. Pavement maintenance issues. Pavement distresses, distress evaluation, maintenance measures, and network level maintenance strategy."
+        },
+        { 
+            "courseName": "CE 683: Traffic Engineering", 
+            "content": "Microscopic and macroscopic traffic parameters, traffic flow models, car-following models, capacity and level of service analysis, design of traffic facilities like unsignalized and signalized intersections, inter changes, expressways, traffic signs, parking areas etc., simulation of traffic streams."
+        },
+        { 
+            "courseName": "CE 684: Urban Transportation System", 
+            "content": "Dimensions of the widening role of urban transportation system planning; the planning process; land use and transport system models; comparison and evaluation of various models; transportation impact study methodologies; strategies for the evaluation of alternative transportation plans and plan implementation; Regional analysis and plan implementation; Regional Analysis and development concepts; the role of transportation planning in the overall regional system; methodology and models for regional transportation system planning; implementation framework and case studies."
+        },
+        { 
+            "courseName": "CE 685: Rail Transportation Systems Planning and Design", 
+            "content": "Rail Transportation System; Demand analysis and forecasting for passenger and freight traffic costing and pricing principles, project analysis and design; project interdependencies and programming techniques; systems analysis and systems planning; macroeconomic transportation simulator; case studies and implementation strategies."
+        },
+        { 
+            "courseName": "CE 688: Airport Systems Planning and Design", 
+            "content": "Air Transport-structure and organization, the challenges and the issues, Forecasting air travel demand-trend forecasts and analytical methods; Air freight demand, Characteristics of the aircraft as they affect airport; Airport planning-requirements: site selection, layout plan and financial plan; Air traffic control lighting and signing; Airport capacity and configuration; Geometric design of runway, taxiway and aprons; passenger terminal functions, passenger and baggage flow, design concepts, analysis of flow through terminals, parking configurations and apron facilities; Air cargo facilities-flow through cargo terminals, unitized systems; Airport drainage and pavement design; Airport access problem; Environmental impact of airports. "
+        },
+        { 
+            "courseName": "CE 689: Characterization of Pavement Materials and Analysis of Pavements", 
+            "content": "Components of a pavement structure. Experimental characterization of pavement materials – bituminous mix, aggregates, subgrade, cemented material. Material modeling – visco-elastic, visco-plastic behaviour. Load stresses in pavements, generalized multi-layer solution – Burmister layer, slab, foundation models. Static and dynamic analysis. Fatigue and rutting modeling and calibration. Temperature stresses in pavements. Estimation of cumulative damage."
+        },
+        { 
+            "courseName": "CE 690: Laboratory Course in Transportation Engineering", 
+            "content": "Experiments to characterize pavement materials like, viscosity tests, ageing tests, skid tests, etc. Experiments to characterize bituminous mixes, like mix design related experiments, moisture sensitivity related experiments, etc. Experiments related to traffic data collections on speed, volume, travel time, delay, etc. Traffic studio (students will learn to use geometric design software and video data analysis software). Demonstrations of various equipments including possible visits to advanced labs and road systems."
+        }
+    ]
+};

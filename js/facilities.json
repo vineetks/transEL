@@ -1,0 +1,234 @@
+var facilities =  {
+    "traffic":[
+        { 
+            "itemName": "Traffic speed detection radar", 
+            "description": "This is an electronics equipment with trigger control-digital display. This is mainly used for measuring the speed of a vehicle by emitting microwave radiation.",           
+            "imageSRC": "facilities/falkcon_radar.JPG", 
+            "caption": "Cordless Falcon traffic speed detection radar" 
+        },
+        { 
+            "itemName": "Driver testing unit", 
+            "description": "For safe and efficient movement of vehicles on road the alertness, instinct and training of a driver play a major role. The ability and efficiency of driver are measured by certain parameters, e.g., accuracy and range of vision, colour distinction, perceiving distance between two objects etc. A driver testing unit measure all these functions.",           
+            "imageSRC": "facilities/driver_testing_unit.JPG", 
+            "caption": "Driver testing unit" 
+        },
+        { 
+            "itemName": "Video processing unit", 
+            "description": "Video processing unit helps in  analysis and  data acquisition  from the  video of field observation. ",           
+            "imageSRC": "", 
+            "caption": "" 
+        },
+        { 
+            "itemName": "Video recording unit", 
+            "description": "Video recording unit helps in  continuous field data acquisition. ",           
+            "imageSRC": "", 
+            "caption": "" 
+        }
+    ],
+    "mix":[
+        { 
+            "itemName": "Marshall apparatus", 
+            "description": "Marshall apparatus is used to measure the resistance of cylindrical bituminous mix specimens to plastic flow under loading on the lateral surface. This test method is used for bituminous mix design.",           
+            "imageSRC": "facilities/marshall.jpg",
+            "imageSRC2": "facilities/marshall-digital.jpg", 
+            "caption": "Marshall Test Apparatus", 
+            "caption2": "Digital Marshall Test Apparatus "
+        }
+    ],
+    "pavement":[
+        { 
+            "itemName": "Benkelmen Beam deflection apparatus ", 
+            "description": "Static pavement deflection is measured by the Benkelmen Beam (BB) which consists of a slender beam 3.66 m long pivoted at a distance of 2.44 m from the tip. By suitably placing the prove between the dual wheels of a loaded truck, it is possible to measure the rebound and residual deflections of the pavement structure.  The overlay thickness required for strengthening of a given road stretch is derived from the BB deflection record and other necessary design parameters.",           
+            "imageSRC": "facilities/benkel.jpg", 
+            "caption": "Benkelmen Beam" 
+        },
+        { 
+            "itemName": "Core cutting machine", 
+            "description": "The core cutting machine is used to cut / drill cores of various diameters of concrete or bituminous pavement.",           
+            "imageSRC": "facilities/core_cutter.JPG", 
+            "caption": "Core cutting machine" 
+        },
+        { 
+            "itemName": "Dynamic cone penetrometer", 
+            "description": "",           
+            "imageSRC": "facilities/dynamic_cone.JPG", 
+            "caption": "Dynamic cone penetrometer" 
+        },
+        { 
+            "itemName": "Profilograph", 
+            "description": "This equipment is used for checking and recording the smoothness of profiles of pavements with accuracy and cost-effectiveness. The equipment, developed by Central Road Research Institute, New Delhi (CRRI), comprises of a mobile trussed frame, four datum wheels which provide the plan of reference with respect to which the instrument, moves along the pavement surface during the test. The probing wheel undulates with the surface irregularities and the pen marker linked to probing wheel records the magnitude of the undulation on a graph sheet. The road roughness level is estimated using this equipment.",           
+            "imageSRC": "facilities/profilograph.JPG", 
+            "caption": "Profilograph" 
+        },
+        { 
+            "itemName": "Skid resistance tester", 
+            "description": "This equipment is used to determine the resistance of vehicles against skidding on the roads.",           
+            "imageSRC": "facilities/skid.jpg", 
+            "caption": "Skid resistance tester" 
+        }
+    ],
+    "bit_binder":[
+        { 
+            "itemName": "Dean and Stark apparatus", 
+            "description": "The amount of water present in a material is expressed as a percentage by mass of the material. For water content test of bitumen “Dean and Stark” method is used.",           
+            "imageSRC": "", 
+            "caption": "" 
+        },
+        { 
+            "itemName": "Distillation of bituminous materials  ", 
+            "description": "It is a process in which a semisolid or liquid or vapor or mixture of two or more substances is separated into its component fractions by the application or removal of heat.<br>Important features of distillation:<ul><li>This is a separation technique.</li><li>It consumes good amount of energy both in terms of cooling and heating.</li></ul>It depends upon<ul><li>The difference in boiling points of the individual components of the mixture, and</li><li>the concentrations of the components present.</li></ul>",           
+            "imageSRC": "", 
+            "caption": "" 
+        },
+        { 
+            "itemName": "Ductility testing machine", 
+            "description": "Ductility is the measure of the cohesive strength of binder. Reasonably good ductility is also a desired property of bitumen because, in practice bitumen roads are subjected to both temperature-induced and traffic-induced movements. In this method the maximum possible elongation of bitumen, placed in a standard briquette, is measured under specific test conditions.",           
+            "imageSRC": "facilities/ductility_test.JPG", 
+            "caption": "Ductility testing machine" 
+        },
+        { 
+            "itemName": "Flash point and fire point test apparatus", 
+            "description": "Tar and bitumen, specially cutback bitumen, are flammable liquids at high temperature and therefore, there is a risk of catching fire if care is not exercised during construction. The Flash Point of bitumen is determined by Open Pensky- Martens Method. In this method, a small cup filled with bitumen is subjected to rise in temperature at a specified rate. A small flame of 0.16 in. diameter is applied to the surface of the cup containing molten bitumen at specified intervals until a flash first appears at any point on the surface. That particular temperature is considered as the Flash Point.",           
+            "imageSRC": "facilities/flash_fire.JPG", 
+            "caption": "Flash point and fire point test apparatus" 
+        },
+        { 
+            "itemName": "Float test apparatus", 
+            "description": " The consistency of bituminous binder is determined by float test.",           
+            "imageSRC": "facilities/float_test.JPG", 
+            "caption": "Float test apparatus" 
+        },
+        { 
+            "itemName": "Frass breaking point test", 
+            "description": "It is the temperature at which bitumen first becomes brittle (as indicated by the appearance of cracks) when a thin film of bitumen on a metal plaque is cooled and flexed under specific conditions.",           
+            "imageSRC": "", 
+            "caption": "" 
+        },
+        { 
+            "itemName": "Penetration testing equipment", 
+            "description": "The objective of this experiment is to determine the consistency of bitumen for classifying bitumen samples into different grades. ",           
+            "imageSRC": "facilities/penetration.jpg", 
+            "caption": "Penetration testing machine" 
+        },
+        { 
+            "itemName": "Softening point testing apparatus", 
+            "description": "Softening point of bitumen is defined as the temperature at which bitumen attains a particular degree of softening. ",           
+            "imageSRC": "facilities/softening_test.JPG", 
+            "caption": "Softening point testing apparatus" 
+        },
+        { 
+            "itemName": "Thin film oven test apparatus", 
+            "description": "The dual purpose oven is designed to determine the loss in weight of bitumen and flux oils and the effects of heat and air on asphalt materials. Temperature is maintained at 163°C by the means of a variable temperature controller and a thermostat.",           
+            "imageSRC": "facilities/rotational.jpg", 
+            "caption": "Rotational thin film ovens" 
+        },
+        { 
+            "itemName": "Viscosity testing apparatus", 
+            "description": "The viscosity of a binder is a measure of its flow characteristics, and the performance of a bituminous mix is greatly affected by its viscosity. <br>The equipment is used for kinematic viscosity measurement. Using the equipment within the range of 20 to 100°C, temperature is controlled to 0.01°C; above 100°C temperature is controlled to 0.03°C. ",           
+            "imageSRC": "facilities/rotational_visco.JPG", 
+            "imageSRC2": "facilities/tar_visco.jpg",
+            "imageSRC3": "facilities/capillary_visco.JPG",
+            "caption": "Rotational viscometer",
+            "caption2": "Tar viscometer",
+            "caption3": "Capillary viscometer"
+        }
+    ],
+    "aggregates":[
+        { 
+            "itemName": "Abrasion test", 
+            "description": "In the abrasion test the aggregates are subjected to abrasion in a shielded (dust tight) container of specific dimensions with a specific number of steel balls and individual weights kept inside. The container rotates at a given frequency for a given duration. The popular abrasion tests procedures is Los Angles Abrasion test.",           
+            "imageSRC": "facilities/abration_test.JPG", 
+            "caption": "Los Angles abrasion testing machine" 
+        },
+        { 
+            "itemName": "Shape test", 
+            "description": "Flakiness Index: The flakiness index of aggregate is the percentage of the mass of the aggregates whose least dimension is less than 0.6 times the mean dimension. The flakiness test is applicable to aggregates of size larger than 6.3 mm.<br><br>Elongation Index: The elongation index of aggregates is the percentage by weight of the particles whose longest dimension (i.e. length) is greater than 1.8 times the mean dimension.",           
+            "imageSRC": "", 
+            "caption": "" 
+        },
+        { 
+            "itemName": "Aggregate impact test", 
+            "description": "Aggregate impact value gives the relative strength of aggregates against impact loading.",           
+            "imageSRC": "facilities/impact.jpg", 
+            "caption": "Aggregate impact test" 
+        },
+        { 
+            "itemName": "Alkali-aggregate reaction test", 
+            "description": "This test method determines the potential reactivity of aggregates with alkalis in Portland cement concrete. Aggregates are crushed and sieved to pass a 300 micron IS sieve and retained on a 150 micron IS sieve. The reactivity is measured by the amount of reaction between 1 N sodium hydroxide solution and aggregates over a period of  24 hours at a temperature of 80°C.",    
+            "imageSRC": "", 
+            "caption": "" 
+        },
+        { 
+            "itemName": "Deval attrition test", 
+            "description": "This equipment is used for testing the abrasion resistance of aggregates. The machine consists of a rotating frame to support two steel cylinders complete with covers and locking device.  These cylinders are mounted on a shaft at an angle of 30 degrees with the axis of rotations of shaft. The shaft rotates at 30 – 33 rpm through a reduction gear operated by motor.",           
+            "imageSRC": "facilities/attrition_test.JPG", 
+            "caption": "Deval attrition testing machine" 
+        },
+        { 
+            "itemName": "Sand equivalent test", 
+            "description": "This test is commonly used for indicating relative proportion of clay like material and fine dust in granular soil or graded aggregate.  The sample to be tested is placed in a special chemical solution (calcium chloride, formaldehyde and glycerin). After shaking the cylinder, it is allowed to stand for some specified period for sedimentation. Readings are then taken on the cylinder scale for the level of  clay suspension and  sand. ",           
+            "imageSRC": "", 
+            "caption": "" 
+        },
+        { 
+            "itemName": "Soundness Test", 
+            "description": "This test measures the resistance of aggregates to disintegration due to weathering. The aggregates are subjected to alternate cooling and heating cycles in the presence of abrasive agent (generally some chemical solution). The abrasive agent penetrates the fine crack in the aggregates. Due to repetitive drying and wetting, salts get deposited in the cracks and the cracks grow in size causing disintegration of aggregates along the weak shear plane.",           
+            "imageSRC": "", 
+            "caption": "" 
+        },
+        { 
+            "itemName": "Stone polishing value test", 
+            "description": "The surface of the aggregates tend to get polished due to traffic.<br> The degree of polish imparted depends on the traffic conditions (e.g., volume, weight, speed, acceleration, breaking), road geometry (e.g., alignment grading) and the nature of aggregates.",           
+            "imageSRC": "facilities/stonepolishing.JPG", 
+            "caption": "Stone polishing machine" 
+        }
+    ],
+    "bit_mix":[
+        { 
+            "itemName": "Aggregate-bitumen stripping value test", 
+            "description": "The film-stripping test is used to measure the resistance of bituminous mixture to stripping of bitumen from the rock particles.",           
+            "imageSRC": "facilities/stripping_value.JPG", 
+            "caption": "Stripping value testing machine" 
+        },
+        { 
+            "itemName": "Centrifuge extractor", 
+            "description": "The equipment is used for the quantitative determination of bitumen in hot mixed paving mixtures and pavement samples. The bitumen content is calculated by taking the difference from the weight of the extracted aggregate, moisture content and ash from an aliquot part of extract. ",           
+            "imageSRC": "facilities/centrifuge_ext.jpg", 
+            "caption": "Centrifuge extractor" 
+        },
+        { 
+            "itemName": "Fatigue testing apparatus", 
+            "description": "This indigenous equipment is used to determine the fatigue performance of bound pavement materials.",           
+            "imageSRC": "facilities/fatigue.jpg", 
+            "caption": "Fatigue testing apparatus" 
+        },
+        { 
+            "itemName": "Permeability test", 
+            "description": "This equipment is to measure permeability of bituminous mix.",           
+            "imageSRC": "facilities/permeability_test.JPG", 
+            "caption": "Permeability testing machine" 
+        },
+        { 
+            "itemName": "Bitumen content test", 
+            "description": "The furnace provides a cost-effective method for the accurate determination of bitumen content in a bituminous-mix. The maximum weight of sample, which it can handle, is 4000 grams. The temperature range, in which it operates, varies from 200 to 650° C. The accuracy of its internal balance is ±0.1 gram. It has automatic interlock, which cuts power when the door is open. Its chamber dimensions are 355×266×355 mm..",           
+            "imageSRC": "facilities/bitumen_ignition.JPG", 
+            "caption": "Bitumen Ignition Furnace" 
+        }
+    ],
+    "basic":[
+        { 
+            "itemName": "Vacuum oven", 
+            "description": "On heating, bitumen gets oxidized. Therefore controlled heating of bitumen is required. In a Vacuum Oven, the heating takes place in an airtight chamber where a desired level of vacuum can be applied using an external vacuum pump. ",           
+            "imageSRC": "facilities/vacuum_oven.JPG",
+            "imageSRC2": "facilities/vacuum_pump.JPG",
+            "caption": "Vacuum Oven", 
+            "caption2": "Vacuum Pump"
+        },
+        { 
+            "itemName": "Refrigerator", 
+            "description": "",           
+            "imageSRC": "", 
+            "caption": "" 
+        }
+    ]
+};

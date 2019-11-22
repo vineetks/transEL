@@ -1,0 +1,114 @@
+/*************************************************************/
+/**************Version 2.1 :: Date 28/10/2016*****************/
+/*************************************************************/
+@font-face {
+    font-family: "Abel";
+    src: url(assets/fonts/Abel.ttf) format('truetype');
+}
+@font-face {
+    font-family: "Adamina";
+    src: url(assets/fonts/Adamina.ttf) format('truetype');
+}
+@font-face {
+    font-family: "Raleway";
+    src: url(assets/fonts/Raleway.ttf) format('truetype');
+}
+@font-face {
+    font-family: "Rokkitt";
+    src: url(assets/fonts/Rokkitt.ttf) format('truetype');
+}
+body{
+    background: #e6e6e6; 
+    font-family: Rokkitt, serif;
+    font-size: 16px;
+}
+.header{
+    padding: 15px;
+    background: white;
+    font-family: Abel;
+}
+/******************************* NAVIGATION *******************************/
+.navbar{
+    font-family: Adamina;
+}
+.navbar, .panel{
+    border-radius: 0;
+}
+#navigator .active, #quick-links .active{
+    background: #4e4d4d;
+    border-color: #4e4d4d;
+}
+.sub-link{
+    padding: 5px 15px;
+}
+/******************************* CONTENT *******************************/
+.affix ~ div {
+    position: relative;
+    top: 72px;
+}
+.affix {
+    top:0;
+    width: 100%;
+    z-index: 1020 !important;
+}
+#goToTop{
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+    width: 60px;
+    padding-top: 6px;
+    display: none;
+    cursor: pointer;
+    background: #ccc;
+    border-radius: 12px;
+}
+#goToTop .glyphicon{
+    font-size: 24px;
+}
+.active-link{
+    color: #d2d2d2!important;
+    background: black;
+}
+.h3-people{
+    margin-top: 0;
+    padding-left: 15px;
+}
+#major_areas a, #major_clients a{
+    cursor: default;
+}
+/******************************* FOOTER *******************************/
+.update{
+    position: absolute; 
+    bottom:10px; 
+    right: 10px;
+}
+.footer{
+    margin-top: 15px;
+    background: #222;
+    color: white;
+    padding: 10px 0;
+    bottom: 0;
+    position: relative;
+}
+/***************************CONTACT US PAGE****************************/
+.table-modified>thead>tr>th{
+    text-align: center;
+    vertical-align: middle;
+}
+.zero-padding{
+    padding: 0;
+}
+.table-modified tr>td:first-child{
+    text-align: left;
+}
+/******************************* Media Queries *******************************/
+@media only screen and (max-width: 992px) {
+    .update, #navigator{
+        display: none;
+    }
+    .new-activity{
+        font-size: 14px;
+        padding: 5px 15px;
+        text-align: center;
+    }
+}

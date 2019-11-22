@@ -1,0 +1,63 @@
+var news =  {
+    "past":[
+        { 
+            "activity": "A Two Day Workshop on Design of Flexible Pavement with Emphasis on  the New IRC:37-2001 Guidelines", 
+            "link": "http://home.iitk.ac.in/~adas/course1.htm",
+            "coordinator": "Dr. Animesh Das",           
+            "duration": "9th  & 10th Feb, 2002"
+        },
+        { 
+            "activity": "A Short Course on Recent Trends in Bituminous Mix Design", 
+            "link": "http://home.iitk.ac.in/~adas/course2.htm",
+            "coordinator": "Dr. Animesh Das",           
+            "duration": "11th & 13th Aug, 2003"
+        },
+        { 
+            "activity": "A QIP Short Course Modern Trends in Pavement and Traffic Engineering", 
+            "link": "http://home.iitk.ac.in/~adas/course3.htm",
+            "coordinator": "Dr. Partha Chakroborty and Dr. Animesh Das",           
+            "duration": "28th & 31st Mar, 2004"
+        },
+        { 
+            "activity": "A Workshop on Recycling and other Pavement Rehabilitation Methods", 
+            "link": "http://home.iitk.ac.in/~adas/workshop1.htm",
+            "coordinator": "Dr. Animesh Das",           
+            "duration": "8th & 10th Mar, 2005"
+        },
+        { 
+            "activity": "A QIP short course on Pavement and Traffic Engineering", 
+            "link": "http://home.iitk.ac.in/~adas/course4.htm",
+            "coordinator": "Dr. Partha Chakroborty and Dr. Animesh Das",           
+            "duration": "4th & 7th Oct, 2005"
+        },
+        { 
+            "activity": "A short course on Principles of Pavement and Traffic Engineering", 
+            "link": "http://home.iitk.ac.in/~adas/course5.htm",
+            "coordinator": "Dr. Partha Chakroborty and Dr. Animesh Das",           
+            "duration": "12th & 14th Mar, 2008"
+        },
+        { 
+            "activity": "A short course on Principles of Transportation Engineering", 
+            "link": "http://home.iitk.ac.in/~adas/course6.htm",
+            "coordinator": "Dr. Partha Chakroborty and Dr. Animesh Das",           
+            "duration": "18th & 20th Feb., 2009"
+        }
+    ],
+    "current":[
+        { 
+            "date": "", 
+            "topic": "",           
+            "speaker": "", 
+        },
+        { 
+            "date": "", 
+            "topic": "",           
+            "speaker": "", 
+        },
+        { 
+            "date": "", 
+            "topic": "",           
+            "speaker": "", 
+        }
+    ]
+};

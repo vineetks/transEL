@@ -1,0 +1,165 @@
+var navigation =  {
+    "faculty":[
+        { 
+            "linkName": "Faculty", 
+            "linkAddress": "#faculty",
+            "class": "main-link"
+        },
+        { 
+            "linkName": "Staff", 
+            "linkAddress": "#staff",
+            "class": "main-link"
+        }
+    ],
+    "students":[
+        { 
+            "linkName": "Ph.D.", 
+            "linkAddress": "#phd",
+            "class": "main-link"
+        },
+        { 
+            "linkName": "M.Tech. Final Year", 
+            "linkAddress": "#mtech_final",
+            "class": "main-link"
+        },
+        { 
+            "linkName": "M.Tech. First Year", 
+            "linkAddress": "#mtech_first",
+            "class": "main-link"
+        },
+        { 
+            "linkName": "M.S.", 
+            "linkAddress": "#ms",
+            "class": "main-link"
+        }
+    ],
+    "alumni":[
+        { 
+            "linkName": "Ph.D.", 
+            "linkAddress": "#phd",
+            "class": "main-link"
+        },
+        { 
+            "linkName": "M.Tech.", 
+            "linkAddress": "#mtech",
+            "class": "main-link"
+        },
+        { 
+            "linkName": "Batch 2001", 
+            "linkAddress": "#mtech_2001",
+            "class": "sub-link"
+        },
+        { 
+            "linkName": "Batch 2005", 
+            "linkAddress": "#mtech_2005",
+            "class": "sub-link"
+        },
+        { 
+            "linkName": "Batch 2009", 
+            "linkAddress": "#mtech_2009",
+            "class": "sub-link"
+        },
+        { 
+            "linkName": "Batch 2011", 
+            "linkAddress": "#mtech_2011",
+            "class": "sub-link"
+        },
+        { 
+            "linkName": "Batch 2013", 
+            "linkAddress": "#mtech_2013",
+            "class": "sub-link"
+        },
+        { 
+            "linkName": "Batch 2015", 
+            "linkAddress": "#mtech_2015",
+            "class": "sub-link"
+        }
+    ],
+    "facilities":[
+        { 
+            "linkName": "Traffic Engineering", 
+            "linkAddress": "#traffic_head",
+            "class": "main-link"
+        },
+        { 
+            "linkName": "Mix Design", 
+            "linkAddress": "#mix_head",
+            "class": "main-link"
+        },
+        { 
+            "linkName": "Pavement Evaluation", 
+            "linkAddress": "#pavement_head",
+            "class": "main-link"
+        },
+        { 
+            "linkName": "Materials Testing Facility", 
+            "linkAddress": "#material_head",
+            "class": "main-link"
+        },
+        { 
+            "linkName": "Basic Equipments/Facilities", 
+            "linkAddress": "#basic_head",
+            "class": "main-link"
+        }
+    ],
+    "activity":[
+        { 
+            "linkName": "Major Areas", 
+            "linkAddress": "#major_areas",
+            "class": "main-link"
+        },
+        { 
+            "linkName": "Major Clients", 
+            "linkAddress": "#major_clients",
+            "class": "main-link"
+        }
+    ],
+    "courses":[
+        { 
+            "linkName": "Under-Graduate", 
+            "linkAddress": "#ugCourses",
+            "class": "main-link"
+        },
+        { 
+            "linkName": "Post-Graduate", 
+            "linkAddress": "#pgCourses",
+            "class": "main-link"
+        }
+    ],
+    "news":[
+        { 
+            "linkName": "Latest announcements", 
+            "linkAddress": "#current_activities",
+            "class": "main-link"
+        },
+        { 
+            "linkName": "Past Activties", 
+            "linkAddress": "#past_activities",
+            "class": "main-link"
+        }
+    ],
+    "data":[
+        { 
+            "linkName": "Highway Management", 
+            "linkAddress": "#data1",
+            "class": "main-link"
+        },
+        { 
+            "linkName": "Humps in IITK campus", 
+            "linkAddress": "#data2",
+            "class": "main-link"
+        }
+    ],
+    "contact":[
+        { 
+            "linkName": "General communication", 
+            "linkAddress": "#gen_com",
+            "class": "main-link"
+        },
+        { 
+            "linkName": "Individual telephone", 
+            "linkAddress": "#tele_com",
+            "class": "main-link"
+        }
+    ]
+};

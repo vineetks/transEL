@@ -1,0 +1,44 @@
+var data1 = {
+    dataPage:[ 
+        { 
+            "dataType": "Miscellaneous highway management  related  data", 
+            "collectedBy": "Dr. P. K Agarwal",
+            "year": "2005",  
+            "dataFileName": [
+                "Details of the section features, condition indices and urgency/priority index  for all the sections.",
+                "Details of the cost required  for all the activities for all the sections.",
+                "Details of the material required  for all the activities for all the sections.",
+                "Details of the equipment required  for all the activities for all the sections.",
+                "Details of the manpower required  for all the activities for all the sections.",
+                "ID<sup>S</sup> <sub>cd</sub>  values for all the sections."
+            ],
+            "dataFileLink": [
+                "http://www.iitk.ac.in/transEL/data/global/pkagarwal05/features-indices%20and%20priority%20index-data.pdf",
+                "http://www.iitk.ac.in/transEL/data/global/pkagarwal05/cost.xls",
+                "http://www.iitk.ac.in/transEL/data/global/pkagarwal05/material.xls",
+                "http://www.iitk.ac.in/transEL/data/global/pkagarwal05/equipment.xls",
+                "http://www.iitk.ac.in/transEL/data/global/pkagarwal05/manpower.xls",
+                "http://www.iitk.ac.in/transEL/data/global/pkagarwal05/idvalues.xls"
+            ]
+        },
+        { 
+            "dataType": "Data related to humps located in IITK campus", 
+            "collectedBy": "Chinta Neeraja",
+            "year": "2005",  
+            "dataFileName": [
+                "Heights of  hump",
+                "Geometry of the hump",
+                "Data from speed profile survey for each hump",
+                "Data from acceleration profile survey for each hump",
+                "Data from deceleration profile survey for each hump"
+            ],
+            "dataFileLink": [
+                "http://www.cc.iitk.ac.in/infocell/transportationlab/hump_heights.pdf",
+                "http://www.cc.iitk.ac.in/infocell/transportationlab/Hump_geometry.pdf",
+                "http://www.cc.iitk.ac.in/infocell/transportationlab/speed_profile_data.xls",
+                "http://www.cc.iitk.ac.in/infocell/transportationlab/accel_data.xls",
+                "http://www.cc.iitk.ac.in/infocell/transportationlab/decel_data.xls"
+            ]
+        }
+    ]
+};
